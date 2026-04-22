@@ -22,28 +22,28 @@
 
 <div align="center">
   <a href="https://github.com/Visin-8386/NHANDIENCHU">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Visin-8386&repo=NHANDIENCHU&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="NHANDIENCHU" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Visin-8386&repo=NHANDIENCHU&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="NHANDIENCHU" width="48%" />
   </a>
   <a href="https://github.com/Visin-8386/chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Visin-8386&repo=chatbot&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="chatbot" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Visin-8386&repo=chatbot&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="chatbot" width="48%" />
   </a>
 </div>
 <br>
 <div align="center">
   <a href="https://github.com/Visin-8386/WEBHOMESTAY">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Visin-8386&repo=WEBHOMESTAY&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="WEBHOMESTAY" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Visin-8386&repo=WEBHOMESTAY&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="WEBHOMESTAY" width="48%" />
   </a>
   <a href="https://github.com/Visin-8386/Hieu_ung_tay">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Visin-8386&repo=Hieu_ung_tay&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Hieu_ung_tay" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Visin-8386&repo=Hieu_ung_tay&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="Hieu_ung_tay" width="48%" />
   </a>
 </div>
 <br>
 <div align="center">
   <a href="https://github.com/Visin-8386/bongdenv2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Visin-8386&repo=bongdenv2&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="bongdenv2" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Visin-8386&repo=bongdenv2&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="bongdenv2" width="48%" />
   </a>
   <a href="https://github.com/Visin-8386/GAMEFRIENDZONE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Visin-8386&repo=GAMEFRIENDZONE&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GAMEFRIENDZONE" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Visin-8386&repo=GAMEFRIENDZONE&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="GAMEFRIENDZONE" width="48%" />
   </a>
 </div>
 
