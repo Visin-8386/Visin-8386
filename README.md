@@ -21,8 +21,8 @@
 ### 🏆 Dự Án Nổi Bật (Featured Projects)
 
 <div align="center">
-  <a href="https://github.com/Visin-8386/HOMESTAY">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Visin-8386&repo=HOMESTAY&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="HOMESTAY" width="48%" />
+  <a href="https://github.com/Visin-8386/NHANDIENCHU">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Visin-8386&repo=NHANDIENCHU&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="NHANDIENCHU" width="48%" />
   </a>
   <a href="https://github.com/Visin-8386/chatbot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Visin-8386&repo=chatbot&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="chatbot" width="48%" />
@@ -30,8 +30,8 @@
 </div>
 <br>
 <div align="center">
-  <a href="https://github.com/Visin-8386/WEBHOMESTAY">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Visin-8386&repo=WEBHOMESTAY&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="WEBHOMESTAY" width="48%" />
+  <a href="https://github.com/Visin-8386/HOMESTAY">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Visin-8386&repo=HOMESTAY&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="HOMESTAY" width="48%" />
   </a>
   <a href="https://github.com/Visin-8386/Hieu_ung_tay">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Visin-8386&repo=Hieu_ung_tay&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="Hieu_ung_tay" width="48%" />
