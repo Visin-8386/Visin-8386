@@ -42,8 +42,8 @@
   <a href="https://github.com/Visin-8386/bongdenv2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Visin-8386&repo=bongdenv2&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="bongdenv2" width="48%" />
   </a>
-  <a href="https://github.com/Visin-8386/GAMEFRIENDZONE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Visin-8386&repo=GAMEFRIENDZONE&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="GAMEFRIENDZONE" width="48%" />
+  <a href="https://github.com/Visin-8386/ROBOT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Visin-8386&repo=ROBOT&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="ROBOT" width="48%" />
   </a>
 </div>
 
