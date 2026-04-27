@@ -55,7 +55,7 @@
   <a href="mailto:le294594@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="www.linkedin.com/in/hoàng-lê-a848b5405](https://www.linkedin.com/in/hoàng-lê-a848b5405">
+  <a href="https://www.linkedin.com/in/hoàng-lê-a848b5405">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/hoang.le.756019">
