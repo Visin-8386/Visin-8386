@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <em>Đam mê lập trình, xây dựng hệ thống nhúng (IoT), Phát triển Web và khám phá Trí tuệ nhân tạo (AI).</em>
+  <em>Đam mê lập trình, khám phá Trí tuệ nhân tạo (AI), Phát triển Web và xây dựng hệ thống nhúng (IoT).</em>
 </div>
 
 ---
