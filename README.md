@@ -25,7 +25,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Visin-8386&repo=NHANDIENCHU&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="NHANDIENCHU" width="48%" />
   </a>
   <a href="https://github.com/Visin-8386/chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Visin-8386&repo=chatbot&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="chatbot" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Visin-8386&repo=chatbot&theme=tokyonight&hide_border=true&bg_color=0D1117&v=2" alt="chatbot" width="48%" />
   </a>
 </div>
 <br>
